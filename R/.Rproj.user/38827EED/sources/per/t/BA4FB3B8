@@ -1,27 +1,27 @@
 {
-    "id": "E54CB687",
-    "path": "D:/X-Files/R Projects/Playground/regerjrykytk/Rimp/src/c/ggml.c",
+    "id": "BA4FB3B8",
+    "path": "D:/X-Files/R Projects/Playground/regerjrykytk/Rimp/src/cpp/whisper.cpp",
     "project_path": null,
-    "type": "c",
-    "hash": "0",
+    "type": "cpp",
+    "hash": "2446975191",
     "contents": "",
     "dirty": false,
-    "created": 1678645307232.0,
+    "created": 1678645500808.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,6",
-        "scrollLine": "0"
+        "cursorPosition": "23,14",
+        "scrollLine": "12"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678645472,
+    "lastKnownWriteTime": 1678648790,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678645472784,
+    "last_content_update": 1678648790727,
     "read_only": false,
     "read_only_alternatives": []
 }
